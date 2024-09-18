@@ -26,31 +26,43 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ## WHOIS:
-![image](https://github.com/user-attachments/assets/f8cfc54e-7b4a-42d2-af6e-bdb334649f36)
+
+![jjjj](https://github.com/user-attachments/assets/e141e4cf-fcf9-4dea-9d33-9458129871de)
+
 
 ## IP2LOCATION:
 
-![image](https://github.com/user-attachments/assets/d211fdc2-466c-422f-a274-953c05231efd)
+![qqq](https://github.com/user-attachments/assets/0ccc75d6-00ef-4c86-a674-36a132b749a1)
+
 
 ## PING:
 
-![image](https://github.com/user-attachments/assets/bb81ff1d-5541-42ab-bc5b-5a97ac43555a)
+![oooo](https://github.com/user-attachments/assets/6d826394-3110-48c1-8dbc-d6fccf81003c)
+
 
 ## WEB ARCHIVE:
 
-![image](https://github.com/user-attachments/assets/41b1b776-bc06-49dc-ab48-3c3befdcea85)
+![hhhh](https://github.com/user-attachments/assets/dac3d094-f153-4bc3-807d-52fe11d6ea0c)
 
 ## NMAP:
 
-![image](https://github.com/user-attachments/assets/b484d467-9847-4996-972e-c6321eb4dcba)
+![m](https://github.com/user-attachments/assets/90fa4146-f640-479a-bf66-6f269b056f81)
 
 ## WHATWEB:
 
-![image](https://github.com/user-attachments/assets/f88d573e-9a2e-45ed-b251-5f258188e49c)
+![bbbb](https://github.com/user-attachments/assets/7b2cd6f3-3e1c-420a-aba1-8993b54feda1)
 
-## TRACEROUTE:
+##ICMP TRACEROUTE:
 
-![image](https://github.com/user-attachments/assets/98ddcc7e-cf43-445a-84f7-6dfb71f66a67)
+![nnnn](https://github.com/user-attachments/assets/ea861283-063e-4a8f-ba89-54df23661bd2)
+
+## TCP TRACEROUTE:
+
+![kkkk](https://github.com/user-attachments/assets/4608aef5-e8da-4648-9b92-fabe5beba19d)
+
+## UDP TRACEROUTE:
+
+![MNB](https://github.com/user-attachments/assets/c690fbe2-1e4f-45e7-9b39-178dac60c94e)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
