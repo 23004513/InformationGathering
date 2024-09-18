@@ -52,7 +52,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ![bbbb](https://github.com/user-attachments/assets/7b2cd6f3-3e1c-420a-aba1-8993b54feda1)
 
-##ICMP TRACEROUTE:
+## ICMP TRACEROUTE:
 
 ![nnnn](https://github.com/user-attachments/assets/ea861283-063e-4a8f-ba89-54df23661bd2)
 
