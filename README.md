@@ -42,11 +42,13 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## WEB ARCHIVE:
 
-![hhhh](https://github.com/user-attachments/assets/dac3d094-f153-4bc3-807d-52fe11d6ea0c)
+![WhatsApp Image 2024-09-25 at 08 31 17_7b765d3d](https://github.com/user-attachments/assets/e307980d-311d-4507-bc3f-5da415465b1e)
+
 
 ## NMAP:
 
-![m](https://github.com/user-attachments/assets/90fa4146-f640-479a-bf66-6f269b056f81)
+![WhatsApp Image 2024-09-25 at 08 20 57_e74453b1](https://github.com/user-attachments/assets/e4444da2-5fb9-4315-87cf-95868c72eb5d)
+
 
 ## WHATWEB:
 
@@ -54,15 +56,18 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## ICMP TRACEROUTE:
 
-![nnnn](https://github.com/user-attachments/assets/ea861283-063e-4a8f-ba89-54df23661bd2)
+![WhatsApp Image 2024-09-25 at 08 26 45_8b047e1d](https://github.com/user-attachments/assets/4dfdbfc3-18bb-4e67-a91d-647acbb307a5)
+![WhatsApp Image 2024-09-25 at 08 26 55_3e0520a3](https://github.com/user-attachments/assets/b200b77a-fc45-4f45-aca3-31520cec22e1)
+
 
 ## TCP TRACEROUTE:
 
-![kkkk](https://github.com/user-attachments/assets/4608aef5-e8da-4648-9b92-fabe5beba19d)
+![WhatsApp Image 2024-09-25 at 08 28 00_bec1f067](https://github.com/user-attachments/assets/827ddbe2-fa5f-4767-b5b5-b3e96d613d31)
 
 ## UDP TRACEROUTE:
 
-![MNB](https://github.com/user-attachments/assets/c690fbe2-1e4f-45e7-9b39-178dac60c94e)
+![WhatsApp Image 2024-09-25 at 08 30 32_0cf2c2ab](https://github.com/user-attachments/assets/6238190d-9d02-4670-834f-3c66b8595d44)
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
